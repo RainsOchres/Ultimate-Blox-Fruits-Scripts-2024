@@ -8,6 +8,7 @@
 
 Welcome to the ultimate repository for **Roblox Blox Fruits Script**! If you’re an enthusiastic player of **Blox Fruits**, you’re in the right place. This collection of scripts is crafted to elevate your gaming experience, enhance your performance, and help you become a master of this thrilling Roblox adventure.
 
+
 **Blox Fruits** combines exploration, adventure, and combat in a vibrant world inspired by the popular **One Piece** anime series. With our powerful scripts, you can automate gameplay, unlock hidden features, and dominate the game like never before!
 
 ---
